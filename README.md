@@ -1,5 +1,5 @@
 # Pinball
-Gra stworzona na przedmiot Tworzenie Gier na Platformy Przenośne
+Gra stworzona przez Michała Isalskiego na przedmiot Tworzenie Gier na Platformy Przenośne
 
 Użyte narzędzia:
 Unity 2019.3.15f1
