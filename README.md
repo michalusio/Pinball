@@ -3,10 +3,13 @@ Gra stworzona na przedmiot Tworzenie Gier na Platformy Przenośne
 
 Użyte narzędzia:
 Unity 2019.3.15f1
+
 Odpowiednia dla niego wersja Android Studio i Android SDK (Pobrana automatycznie przez Unity)
+
 PlayGameServices 0.10.09
 
 Kontrola kamery jest wykonywana przy zastosowaniu standardowego gestu "pinch zoom".
+
 Gra wykorzystuje żyroskop w celu przechylania stołu za pomocą telefonu. Zbytnie przechylenie stołu powoduje TILT.
 
 Wykorzystane tablice wyników i osiągnięcia:
