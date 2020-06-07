@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Google Play game services IDs.
+Save this file as res/values/games-ids.xml in your project.
+-->
+<resources>
+  <!-- app_id -->
+  <string name="app_id" translatable="false">862289755566</string>
+  <!-- achievement Achievement #1 -->
+  <string name="achievement_achievement_1" translatable="false">CgkIrvvlo4wZEAIQEw</string>
+  <!-- achievement Achievement #2 -->
+  <string name="achievement_achievement_2" translatable="false">CgkIrvvlo4wZEAIQFA</string>
+  <!-- achievement Achievement #3 -->
+  <string name="achievement_achievement_3" translatable="false">CgkIrvvlo4wZEAIQFQ</string>
+  <!-- achievement Achievement #4 -->
+  <string name="achievement_achievement_4" translatable="false">CgkIrvvlo4wZEAIQFg</string>
+  <!-- achievement Achievement #5 -->
+  <string name="achievement_achievement_5" translatable="false">CgkIrvvlo4wZEAIQFw</string>
+  <!-- achievement Hidden Achievement #1 -->
+  <string name="achievement_hidden_achievement_1" translatable="false">CgkIrvvlo4wZEAIQGA</string>
+  <!-- achievement Hidden Achievement #2 -->
+  <string name="achievement_hidden_achievement_2" translatable="false">CgkIrvvlo4wZEAIQGQ</string>
+  <!-- achievement Hidden Achievement #3 -->
+  <string name="achievement_hidden_achievement_3" translatable="false">CgkIrvvlo4wZEAIQGg</string>
+  <!-- achievement Hidden Achievement #4 -->
+  <string name="achievement_hidden_achievement_4" translatable="false">CgkIrvvlo4wZEAIQGw</string>
+  <!-- achievement Hidden Achievement #5 -->
+  <string name="achievement_hidden_achievement_5" translatable="false">CgkIrvvlo4wZEAIQHA</string>
+  <!-- achievement Incremental Achievement #1 -->
+  <string name="achievement_incremental_achievement_1" translatable="false">CgkIrvvlo4wZEAIQHQ</string>
+  <!-- achievement Incremental Achievement #2 -->
+  <string name="achievement_incremental_achievement_2" translatable="false">CgkIrvvlo4wZEAIQHg</string>
+  <!-- achievement Incremental Achievement #3 -->
+  <string name="achievement_incremental_achievement_3" translatable="false">CgkIrvvlo4wZEAIQHw</string>
+  <!-- achievement Incremental Achievement #4 -->
+  <string name="achievement_incremental_achievement_4" translatable="false">CgkIrvvlo4wZEAIQIA</string>
+  <!-- achievement Incremental Achievement #5 -->
+  <string name="achievement_incremental_achievement_5" translatable="false">CgkIrvvlo4wZEAIQIQ</string>
+  <!-- leaderboard Leaderboard #1 Student #1 -->
+  <string name="leaderboard_leaderboard_1_student_1" translatable="false">CgkIrvvlo4wZEAIQIg</string>
+  <!-- leaderboard Leaderboard #2 Student #1 -->
+  <string name="leaderboard_leaderboard_2_student_1" translatable="false">CgkIrvvlo4wZEAIQKg</string>
+</resources>
