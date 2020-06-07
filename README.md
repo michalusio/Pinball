@@ -17,7 +17,11 @@ Wykorzystane tablice wyników i osiągnięcia:
 Tablica wyników 1, zawierająca wyniki uzyskane w grze (naliczane przy przegranej)
 
 Achievement 1: Zdobądź 1.000.000 punktów
+
 Achievement 2: Zdobądź 5.000.000 punktów
+
 Achievement Ukryty 1: Zdobądź taką ilość punktów, aby zawierały sekwencję "777"
+
 Achievement Progresywny 1: Zdobądź 20 dodatkowych piłek (zapisywane między rozgrywkami)
+
 Achievement Progresywny 2: Zdobądź 100 TILTów
